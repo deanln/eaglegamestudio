@@ -180,7 +180,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 1bc4fdb48238d8348b24408ec180656f, type: 2}
     - target: {fileID: 919132149155446097, guid: 957eaafb5e79014409220f97bb05d968, type: 3}
       propertyPath: m_Name
-      value: reticulans
+      value: Alien
       objectReference: {fileID: 0}
     - target: {fileID: 7310742740588245450, guid: 957eaafb5e79014409220f97bb05d968, type: 3}
       propertyPath: m_Materials.Array.data[0]
