@@ -1,0 +1,17 @@
+# This .gitignore file should be placed at the root 
+#
+# Get latet from https://github.com/github/gitignore
+#
+OneMoreDay/[Ll]ibrary/
+OneMoreDay/[Tt]emp/
+OneMoreDay/[Bb]uilds/
+OneMoreDay/[Bb]uild/
+OneMoreDay/[Ll]ogs/
+OneMoreDay/[Mm]emoryCaptures/
+
+
+# Never ignore Asset meta data
+!OneMoreDay/[Aa]ssets/**/*.meta
+
+# TextMesh Pro files
+OneMoreDay/[Aa]ssets/TextMesh*Pro/
